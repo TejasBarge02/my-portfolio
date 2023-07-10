@@ -29,7 +29,7 @@ const Navbar = () => {
   ]
 
   return (
-    <div className='flex justify-end md:justify-center items-center w-full h-20 px-4 text-white bg-black fixed'>
+    <div className='flex justify-end md:justify-center items-center w-full h-20 px-4 text-white bg-black sticky'>
         <div>
         </div>
         <ul className='hidden md:flex' >
