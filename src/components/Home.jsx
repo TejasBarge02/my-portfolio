@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaAngleRight } from "react-icons/fa";
-import HeroImage from "../assets/my-passport-photo-removebg-preview.png";
+// import HeroImage from "../assets/my-passport-photo-removebg-preview.png";
 const Home = () => {
   return (
     <div name="home" className='h-screen w-full bg-gradient-to-b from-black to-gray-800 text-white'> 
@@ -15,7 +15,7 @@ const Home = () => {
               </button>
             </div>
         </div>
-        <div>
+        {/* <div>
           <img
             src={HeroImage}
             alt="my profile"
@@ -23,7 +23,7 @@ const Home = () => {
             // width={350}
             // height={350}
           />
-        </div>
+        </div> */}
       </div>
     </div>
   )
