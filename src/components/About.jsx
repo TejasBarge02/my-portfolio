@@ -13,24 +13,8 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-10 sm:mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
-        </p>
-
-        <br />
-
-        <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        <p className="text:xl md:text-2xl leading-7 md:leading-10 mt-10 sm:mt-20">
+        Welcome to my portfolio! I'm a passionate and resourceful full-stack developer currently pursuing Computer Engineering at Vidyalankar Institute of Technology. With a strong foundation in both front-end and back-end technologies, I love turning ideas into reality through elegant and user-friendly web applications. My thirst for learning drives me to stay up-to-date with the latest trends and best practices, always striving to improve my skills. Aspiring to make a meaningful impact in the tech industry, I am eager to contribute my expertise and collaborate with like-minded professionals. Let's build something exceptional together! 
         </p>
       </div>
     </div>
